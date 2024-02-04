@@ -2,25 +2,26 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <b>Ph.D</b>, <b>Software Engineer</b> @ <a href='#'>Google</a>, <b>Previously:</b> <a href=https://innovation.ebayinc.com/tech/research/>eBay</a> / <a href=https://umd.edu/>UMD</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: self.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>2000 N Shoreline Blvd</p>
+    <p>Mountain View, CA 94043</p>
 
-news: true # includes a list of news items
-latest_posts: true # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+latest_posts: false # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I work on computer vision and machine learning problems. I enjoy building the product that can scale, while doing applied research and occasionally publishing.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Most recently, I am involved in Google's large multimodal generative model development, a.k.a., [Gemini](https://deepmind.google/technologies/gemini/#introduction), with an focus on fine-tuning and its various downstream applications. Prior to that, I designed and [optimized](https://blog.tensorflow.org/2022/06/Adding-Quantization-aware-Training-and-Pruning-to-the-TensorFlow-Model-Garden.html) vision models for various Google products, such as [Photos](https://blog.google/products/photos/magic-eraser-android-ios-google-one/), [AR Core](https://developers.google.com/ar/develop/scene-semantics) and [Cloud](https://cloud.google.com/model-garden), etc., created the first anomaly detection models behind [Google Cloud Inspection AI](https://cloud.google.com/blog/products/ai-machine-learning/improve-manufacturing-quality-control-with-visual-inspection-ai), and built image search from the ground up for [eBay's first conversational chatbot](https://www.ebayinc.com/stories/news/say-hello-to-ebay-shopbot-beta/).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I also spent great time as a research intern at [NEC Labs](https://www.nec-labs.com/research/media-analytics/) and [SRI International](https://www.sri.com/research/information-computing-sciences/computer-vision/). 
+
+I obtained my Ph.D in Computer Science from the [University of Maryland, College Park](https://umd.edu/), advised by [Prof. Larry S. Davis](https://www.umiacs.umd.edu/people/lsd). I was also affiliated with the [University of Maryland Institute for Advanced Computer Studies (UMIACS)](https://www.umiacs.umd.edu/). Before that, I obtained my Master in Information Processing from [Dalian University of Technology](https://en.dlut.edu.cn/), advised by [Prof. Huchuan Lu](https://scholar.google.com/citations?user=D3nE0agAAAAJ&hl=en).
