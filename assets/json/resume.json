@@ -33,18 +33,12 @@
     {
       "name": "Programming Languages",
       "level": "Master",
-      "keywords": [
-        "Python",
-        "C++"
-      ]
+      "keywords": ["Python", "C++"]
     },
     {
       "name": "Deep Learning Framework",
       "level": "Master",
-      "keywords": [
-        "Tensorflow",
-        "Pytorch"
-      ]
+      "keywords": ["Tensorflow", "Pytorch"]
     }
   ]
 }
